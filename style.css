@@ -1,0 +1,18 @@
+.card-syllabus {
+    background-color: #fff;
+    display: flex;
+    margin: 0;
+    padding: 0.5rem;
+    list-style: none;
+    border: 1px solid #d4d4d8;
+    border-radius: 4px;
+    font-size: .875rem;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.list-materi {
+    cursor: pointer;
+    text-decoration: underline !important;
+    color: black !important;
+}
