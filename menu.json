@@ -1,0 +1,28 @@
+{
+    "menu": [
+        {
+            "title": "Basic",
+            "description": "",
+            "totalCourse": 10,
+            "totalTime": 450,
+            "list": [
+                {
+                    "title": "BElajar php dan variable",
+                    "to": "form/"
+                }
+            ]
+        },
+        {
+            "title": "Basic 2",
+            "description": "",
+            "totalCourse": 10,
+            "totalTime": 450,
+            "list": [
+                {
+                    "title": "BElajar php dan variable 2",
+                    "to": "form/"
+                }
+            ]
+        }
+    ]
+}
