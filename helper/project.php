@@ -2,6 +2,12 @@
 $project = [
     "project" => [
         [
+            "title" => "Hitung Bangun Datar",
+            "description" => "Tugas penanganan form menghitung Luas dan Keliling bangun datar",
+            "image" => "assets/task4.png",
+            "link" => "tugas/luas-keliling-bangun-datar/"
+        ],
+        [
             "title" => "Program Hitung Grade Nilai",
             "description" => "Tugas penanganan form dengan membuat Program hitung Grade Nilai Mahasiswa",
             "image" => "assets/task1.png",

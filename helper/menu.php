@@ -163,27 +163,27 @@ $menu = [
             "list" => [
                 [
                     "title" => "Array 1",
-                    "to" => "array/array1.php"
+                    "to" => "array_and_function/array1.php"
                 ],
                 [
                     "title" => "Array 2",
-                    "to" => "array/array2.php"
+                    "to" => "array_and_function/array2.php"
                 ],
                 [
                     "title" => "Array 3",
-                    "to" => "array/array3.php"
+                    "to" => "array_and_function/array3.php"
                 ],
                 [
                     "title" => "Array 4",
-                    "to" => "array/array4.php"
+                    "to" => "array_and_function/array4.php"
                 ],
                 [
                     "title" => "Array 5",
-                    "to" => "array/array5.php"
+                    "to" => "array_and_function/array5.php"
                 ],
                 [
                     "title" => "Array 6",
-                    "to" => "array/array6.php"
+                    "to" => "array_and_function/array6.php"
                 ]
             ]
         ],
