@@ -184,9 +184,128 @@ $menu = [
                 [
                     "title" => "Array 6",
                     "to" => "array_and_function/array6.php"
+                ],
+                [
+                    "title" => "Fungsi 1",
+                    "to" => "array_and_function/function1.php"
+                ],
+                [
+                    "title" => "Fungsi 2",
+                    "to" => "array_and_function/function2.php"
+                ],
+                [
+                    "title" => "Fungsi 3",
+                    "to" => "array_and_function/function3.php"
+                ],
+                [
+                    "title" => "Fungsi 4",
+                    "to" => "array_and_function/function4.php"
+                ],
+                [
+                    "title" => "Fungsi 5",
+                    "to" => "array_and_function/function5.php"
+                ],
+                [
+                    "title" => "Fungsi 6",
+                    "to" => "array_and_function/function6.php"
+                ],
+                [
+                    "title" => "Fungsi 7",
+                    "to" => "array_and_function/function7.php"
                 ]
             ]
         ],
+        [
+            "title" => "String dan Tanggal",
+            "description" => "Memahami tentang String dan Tanggal pada PHP.",
+            "list" => [
+                [
+                    "title" => "String 1",
+                    "to" => "string_and_date/string1.php"
+                ],
+                [
+                    "title" => "String 2",
+                    "to" => "string_and_date/string2.php"
+                ],
+                [
+                    "title" => "String 3",
+                    "to" => "string_and_date/string3.php"
+                ],
+                [
+                    "title" => "String 4",
+                    "to" => "string_and_date/string4.php"
+                ],
+                [
+                    "title" => "String 5",
+                    "to" => "string_and_date/string5.php"
+                ],
+                [
+                    "title" => "String 6",
+                    "to" => "string_and_date/string6.php"
+                ],
+                [
+                    "title" => "String 7",
+                    "to" => "string_and_date/string7.php"
+                ],
+                [
+                    "title" => "Date 1",
+                    "to" => "string_and_date/date1.php"
+                ],
+                [
+                    "title" => "Date 2",
+                    "to" => "string_and_date/date2.php"
+                ]
+            ]
+        ],
+        [
+            "title" => "File dan Direktori",
+            "description" => "Memahami tentang File dan Direktori pada PHP.",
+            "list" => [
+                [
+                    "title" => "File 1",
+                    "to" => "file_and_directory/file1.php"
+                ],
+                [
+                    "title" => "File 2",
+                    "to" => "file_and_directory/file2.php"
+                ],
+                [
+                    "title" => "File 3",
+                    "to" => "file_and_directory/file3.php"
+                ],
+                [
+                    "title" => "File 4",
+                    "to" => "file_and_directory/file4.php"
+                ],
+                [
+                    "title" => "File 5",
+                    "to" => "file_and_directory/file5.php"
+                ],
+                [
+                    "title" => "File 6",
+                    "to" => "file_and_directory/file6.php"
+                ],
+                [
+                    "title" => "File 7",
+                    "to" => "file_and_directory/file7.php"
+                ],
+                [
+                    "title" => "File 8",
+                    "to" => "file_and_directory/file8.php"
+                ],
+                [
+                    "title" => "File 9",
+                    "to" => "file_and_directory/file9.php"
+                ],
+                [
+                    "title" => "Form Upload",
+                    "to" => "file_and_directory/form_upload.php"
+                ],
+                [
+                    "title" => "Upload",
+                    "to" => "file_and_directory/upload.php"
+                ],
+            ]
+        ]
     ]
 ];
-?>
