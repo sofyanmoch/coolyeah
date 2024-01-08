@@ -15,7 +15,7 @@ function clearRememberCookie() {
 // Cek apakah user sudah login sebelumnya menggunakan cookie
 if (isset($_COOKIE['remember_user'])) {
     $_SESSION['login'] = $_COOKIE['remember_user'];
-    header("Location: /pweb1/uas/calculator.php");
+    header("Location: calculator.php");
     exit();
 }
 
@@ -36,7 +36,7 @@ if (isset($_POST['Login'])) {
         }
 
         // Menuju ke halaman pemeriksaan session
-        header("Location: /pweb1/uas/calculator.php");
+        header("Location: calculator.php");
         exit();
     } else {
         $errorMessage = "Login Gagal";
